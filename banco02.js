@@ -24,7 +24,7 @@ const input = require("readline-sync")
 
 }   else if ((nome && data) && valor );{
     console.log(" consulta concluida ")
-} 
+};
 
 
 
